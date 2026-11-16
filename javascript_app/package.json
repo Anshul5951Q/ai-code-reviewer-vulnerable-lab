@@ -1,0 +1,6 @@
+{
+  "name": "vulnerable-static-analysis-fixtures",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static analysis fixtures only; do not deploy"
+}

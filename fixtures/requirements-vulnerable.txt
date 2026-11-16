@@ -1,0 +1,4 @@
+# Old pins for dependency-scanner fixture testing; verify current advisories.
+Django==2.2.0
+requests==2.19.0
+PyYAML==5.1
